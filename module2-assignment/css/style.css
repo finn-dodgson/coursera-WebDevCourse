@@ -1,0 +1,47 @@
+/* Use border box */
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 175%;
+}
+
+.section-title {
+  font-size: 125%;
+  position: absolute top right;
+  border: 1px solid black;
+}
+
+/* Create row class for Responsive Framework */
+.row {
+  width: 100%;
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+    border: 1px solid black;
+    width: 33.33%;
+  }
+}
+
+/* Tablet */
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+    border: 1px solid black;
+    width: 33.33%;
+  }
+}
+
+/* Mobile */
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+    border: 1px solid black;
+    width: 33.33%;
+  }
+}
