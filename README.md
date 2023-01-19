@@ -1,5 +1,5 @@
 # Welcome to my repository for HTML, CSS, and Javascript for Web Development
 
-## Assignment Code
+## Assignment Links
 Please see the following links to my different assignments.
-- [Module 2] (https://finn-dodgson.github.io/coursera-WebDevCourse/module2-assignment/index.html)
+- [Module 2](https://finn-dodgson.github.io/coursera-WebDevCourse/module2-assignment/index.html)
