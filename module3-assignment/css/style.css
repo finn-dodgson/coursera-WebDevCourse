@@ -32,6 +32,8 @@ div li {
   background-color: #bee398;
   border: 1px black solid;
   margin-top: -9px;
+  font-size: 1.5em;
+  padding: 3px;
 }
 nav > li > a:hover {
   color: #000;
@@ -67,8 +69,5 @@ section div div {
 @media (max-width: 767px) {
   .navbar-brand h1 {
     padding-left: 30px;
-  }
-  div h2 {
-
   }
 }
