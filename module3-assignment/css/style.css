@@ -11,7 +11,8 @@ body {
 /* HEADER */
 #header-nav {
   background-color: #bee398;
-  border: 1px solid black;
+  border-top: : 1px solid black;
+  border-bottom: 1px solid black;
   height: 100px;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -38,21 +39,19 @@ div li {
 nav > li > a:hover {
   color: #000;
 }
-
+.navbar {
+  position: relative;
+  margin-bottom: 20px;
+}
 /* MAIN CONTENT */
 div h2 {
   font-size: 2em;
   margin-bottom: 30px;
 }
-#main-content {
-  margin-top: 20px 0 0 0;
-}
-
 .item-description {
   font-size: 1.5em;
   margin-bottom: 40px;
 }
-
 .item-title {
   text-align: center;
   font-size: 1.8em;
