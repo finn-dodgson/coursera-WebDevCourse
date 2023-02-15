@@ -5,3 +5,4 @@ Please see the following links to my different assignments.
 - [Module 2](https://finn-dodgson.github.io/coursera-WebDevCourse/module2-assignment/index.html)
 - [Module 3](https://finn-dodgson.github.io/coursera-WebDevCourse/module3-assignment/index.html)
 - [Module 4](https://finn-dodgson.github.io/coursera-WebDevCourse/module4-assignment/index.html)
+- [Module 5](https://finn-dodgson.github.io/coursera-WebDevCourse/module5-assignment/index.html)
